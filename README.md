@@ -1,2 +1,2 @@
-# agua-water-platform.
+# agua-water-platform
 agua-water
